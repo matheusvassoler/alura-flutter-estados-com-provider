@@ -1,0 +1,4 @@
+#Thu Jun 17 15:28:42 BRT 2021
+base.0=/Users/mvassoler/Documents/Alura/Flutter/4-gerenciamento-de-estado-e-internacioanlizacao/1-gerenciamento-com-provider/flutter-gerenciamento-de-estado/build/app/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+path.0=classes.dex
